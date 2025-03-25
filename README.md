@@ -70,6 +70,10 @@ PTmate는 AI 기반 개인 트레이너 시스템으로, 사용자의 운동 자
 
 ---
 
+## 배선도
+![image](https://github.com/user-attachments/assets/b6aaf555-4854-417f-9716-115e7d3c3d16)
+
+---
 ## install
 ```bash
 # 1. Python3 및 pip 최신 버전 업데이트
