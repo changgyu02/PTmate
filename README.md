@@ -71,7 +71,7 @@ PTmate는 AI 기반 개인 트레이너 시스템으로, 사용자의 운동 자
 ---
 
 ## 하드웨어 배선도
-![image](https://github.com/user-attachments/assets/b6aaf555-4854-417f-9716-115e7d3c3d16)
+![image](https://github.com/user-attachments/assets/7ebd6ac8-7193-407a-9f2c-2577acc3dac9)
 
 ---
 ## install
